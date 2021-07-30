@@ -1,2 +1,2 @@
 # rubygigih
-tugas ruby jin sakhai rafki GBE01119 abstraction adn polymo
+tugas ruby jin sakhai rafki GBE01119 abstraction and polymorphism
